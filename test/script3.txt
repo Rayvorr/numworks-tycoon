@@ -1,0 +1,7 @@
+snap 400 40_relance_titre
+600 660 ok
+snap 1200 41_relance_jeu
+1400 1460 right
+1600 1660 right
+snap 2200 42_relance_investir
+end 2600

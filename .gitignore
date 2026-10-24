@@ -1,0 +1,4 @@
+output/
+test/ops*.txt
+test/fs*.bin
+test/shots*/
