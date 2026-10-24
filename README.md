@@ -2,6 +2,8 @@
 
 Un jeu de gestion pour la calculatrice graphique **NumWorks** : commence avec un stand de limonade et construis un empire jusqu'à une base sur Mars.
 
+**[⬇ Télécharger Tycoon.nwa](https://github.com/Rayvorr/numworks-tycoon/raw/main/Tycoon.nwa)**
+
 ![Captures du jeu](docs/captures.png)
 
 ## Le jeu
@@ -27,7 +29,7 @@ Un jeu de gestion pour la calculatrice graphique **NumWorks** : commence avec un
 
 ## Installer
 
-1. Télécharge **Tycoon.nwa** depuis la page [Releases](../../releases/latest).
+1. Télécharge **[Tycoon.nwa](https://github.com/Rayvorr/numworks-tycoon/raw/main/Tycoon.nwa)**.
 2. Branche ta calculatrice à l'ordinateur et allume-la.
 3. Va sur [my.numworks.com/apps](https://my.numworks.com/apps) avec **Chrome** ou **Edge** et connecte-toi.
 4. Clique sur **Connect**, choisis ta calculatrice, ajoute `Tycoon.nwa`, puis clique sur **Install**.
